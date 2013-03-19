@@ -1,3 +1,6 @@
 digraph foo {
-	e [shape=sdl_stop, label=""];
+	rankdir=LR;
+	a [shape=sdl_stop, label=""];
+	b;
+	a -> b;
 }

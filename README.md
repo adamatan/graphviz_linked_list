@@ -1,4 +1,4 @@
 graphviz_linked_list
 ====================
 
-Linked list template for graphviz
+A linked list template for graphviz - not yet completed!

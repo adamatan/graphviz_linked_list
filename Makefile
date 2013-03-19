@@ -1,3 +1,5 @@
 create_image:
 	########################### Create png from dotfile ############################
-	dot -v -Tpng list.dot -o list.png
+	dot -Tpng list.dot -o list.png
+	dot -Tpng sdl.dot  -o sdl.png
+
